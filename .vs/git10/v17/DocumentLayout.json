@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\UserService.cs",
+              "RelativeDocumentMoniker": "git10\\UserService.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\UserService.cs",
+              "RelativeToolTip": "git10\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:02:13.677Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\UserRepository.cs",
+              "RelativeDocumentMoniker": "git10\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\UserRepository.cs",
+              "RelativeToolTip": "git10\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:02:05.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "git10\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\IUserRepository.cs",
+              "RelativeToolTip": "git10\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:01:51.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\User.cs",
+              "RelativeDocumentMoniker": "git10\\User.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\User.cs",
+              "RelativeToolTip": "git10\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:01:39.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\Program.cs",
+              "RelativeDocumentMoniker": "git10\\Program.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\Program.cs",
+              "RelativeToolTip": "git10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:58:05.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
