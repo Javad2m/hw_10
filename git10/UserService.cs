@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace git10;
 
-public class UserService : UserRepository
+public class UserService : UserRep
 {
     private User _currentUser;
 

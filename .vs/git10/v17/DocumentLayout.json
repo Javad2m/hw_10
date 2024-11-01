@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\userrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\userrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\userqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\userqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|c:\\users\\notebook\\desktop\\hith\\git10\\git10\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C2726D-AA6E-4F20-98DD-E96C97C1BF4D}|git10\\git10.csproj|solutionrelative:git10\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\UserService.cs",
               "RelativeDocumentMoniker": "git10\\UserService.cs",
               "ToolTip": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\UserService.cs",
               "RelativeToolTip": "git10\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T20:02:13.677Z",
               "IsPinned": true,
@@ -60,15 +72,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "UserQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\UserQueries.cs",
+              "RelativeDocumentMoniker": "git10\\UserQueries.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\UserQueries.cs",
+              "RelativeToolTip": "git10\\UserQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:25:13.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRep.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\UserRep.cs",
+              "RelativeDocumentMoniker": "git10\\UserRep.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\UserRep.cs",
+              "RelativeToolTip": "git10\\UserRep.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:23:46.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\UserRepository.cs",
               "RelativeDocumentMoniker": "git10\\UserRepository.cs",
               "ToolTip": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\UserRepository.cs",
               "RelativeToolTip": "git10\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T20:02:05.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\Configuration.cs",
+              "RelativeDocumentMoniker": "git10\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\Configuration.cs",
+              "RelativeToolTip": "git10\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:15:55.254Z",
               "EditorCaption": ""
             },
             {
@@ -86,26 +137,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\User.cs",
               "RelativeDocumentMoniker": "git10\\User.cs",
               "ToolTip": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\User.cs",
               "RelativeToolTip": "git10\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T20:01:39.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\Program.cs",
               "RelativeDocumentMoniker": "git10\\Program.cs",
               "ToolTip": "C:\\Users\\Notebook\\Desktop\\hith\\git10\\git10\\Program.cs",
               "RelativeToolTip": "git10\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAFgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T19:58:05.798Z",
               "EditorCaption": ""
